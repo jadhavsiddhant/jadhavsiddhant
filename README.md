@@ -16,9 +16,6 @@ As I dive deeper into Computer Science and Engineering, I’m excited to learn a
 - Building my coding fundamentals through projects.
 - Exploring interesting fields like **AI/ML**, **Cybersecurity**, and **Blockchain**.
 
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jadhavsiddhant&show_icons=true&theme=tokyonight)
-
 ---
 
 ### 💡 Goals for This Year:
