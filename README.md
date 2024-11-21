@@ -22,7 +22,7 @@ As I dive deeper into Computer Science and Engineering, I’m excited to learn a
 - Contribute to **open-source projects** 🤝
 - Complete several hands-on projects 💡
 - Participate in more **hackathons** and **coding competitions** ⚡
-- To be the best at whatever i do
+- To be the best at whatever i do 
 
 ---
 
