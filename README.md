@@ -12,7 +12,7 @@ As I dive deeper into Computer Science and Engineering, I’m excited to learn a
 - **Data Structures & Algorithms** 📚
 - Basics of **Web Development** 🌐
 
-### 👨‍💻 What I’m Working On:
+### 👨‍💻 What I’m Working On: 
 - Building my coding fundamentals through projects.
 - Exploring interesting fields like **AI/ML**, **Cybersecurity**, and **Blockchain**.
 
