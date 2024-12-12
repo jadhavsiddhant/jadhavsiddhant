@@ -8,7 +8,7 @@ As I dive deeper into Computer Science and Engineering, I’m excited to learn a
 ---
 
 ### 🌱 What I’m Currently Learning: 
-- **Python Classes & Objects** 🐍
+- **Python** 🐍
 - **C++** 📚
 - Basics of **Web Development** 🌐
 
