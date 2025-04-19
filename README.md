@@ -10,6 +10,7 @@ As I dive deeper into Computer Science and Engineering, I’m excited to learn a
 ### 🌱 What I’m Currently Learning: 
 - **Python** 🐍
 - **C++** 📚
+- **Java**
 - Basics of **Web Development** 🌐
 
 ### 👨‍💻 What I’m Working On:
