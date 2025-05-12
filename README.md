@@ -11,6 +11,7 @@ As I dive deeper into Computer Science and Engineering, I’m excited to learn a
 - **Python** 🐍
 - **C++** 📚
 - **Java**
+- **Javascript**
 - Basics of **Web Development** 🌐
 
 ### 👨‍💻 What I’m Working On:
